@@ -1,4 +1,0 @@
-Kutlu = 4
-if Kutlu in range(0,10):
-  print("haha")
-  
